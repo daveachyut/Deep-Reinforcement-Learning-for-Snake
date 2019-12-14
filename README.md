@@ -1,6 +1,6 @@
 Inspired by https://github.com/maurock/snake-ga
 
-https://drive.google.com/file/d/1XMUhoSVU-PwxH3JmGnRrMVPe3q4hE5sG/view?usp=sharing
+More at https://drive.google.com/file/d/1XMUhoSVU-PwxH3JmGnRrMVPe3q4hE5sG/view?usp=sharing
 
 REFERENCES
 
